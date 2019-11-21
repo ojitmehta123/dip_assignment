@@ -1,10 +1,13 @@
-# DIP ASSIGNMENT 
+# UnderWater Image Enhancement 
 
-## [paper](https://ieeexplore.ieee.org/document/8733992)
+Matlab code mine2.m
 
-### TODO:
-*  
-*
-*
-*
-*
+![Original 1](https://github.com/ojitmehta123/dip_assignment/Sample_Results/og1.png)
+![![Original 1](https://github.com/ojitmehta123/dip_assignment/Sample_Results/og1.png)
+](https://github.com/ojitmehta123/dip_assignment/Sample_Results/og1_enhanced.png)
+
+![Original 2](https://github.com/ojitmehta123/dip_assignment/Sample_Results/og2.png)
+![Original 2](https://github.com/ojitmehta123/dip_assignment/Sample_Results/og2_enhanced.png)
+
+
+
